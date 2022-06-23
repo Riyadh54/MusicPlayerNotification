@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MusicPlayerNotification</string>
+    <string name="song_title">Song title</string>
+</resources>
